@@ -5,4 +5,8 @@ STAT is a simple scene text annotation tool (written in Python using PyQT4), to 
 Version 0.1 of the tool is developed specifically to annotate scene text regions, but it can also be used to annotate other object categories.
 The annotations are saved as text files (+ .png files for object masks). It can be easily modified to save in xml format, if needed..
 
-See STAT-USER-GUIDE for more information.
+See STAT-USER-GUIDE.pdf for more information.
+
+References:
+
+M. Bastan, H. Kandemir, B. Cantürk, "MT3S: Mobile Turkish Scene Text-to-Speech System for the Visually Impaired", arXiv:1608.05054, August 2016.
